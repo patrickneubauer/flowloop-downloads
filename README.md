@@ -6,7 +6,7 @@ This repository hosts the macOS release downloads for FlowLoop, a floating focus
 
 [Download the latest FlowLoop DMG](https://github.com/patrickneubauer/flowloop-downloads/releases/latest/download/FlowLoop.dmg)
 
-The download link becomes available when the first release is published. FlowLoop supports macOS 12 or later and includes Apple silicon and Intel binaries.
+FlowLoop supports macOS 12 or later and includes Apple silicon and Intel binaries.
 
 Current builds are ad hoc signed and are not notarized by Apple. On first launch, macOS may require you to choose **Open Anyway** in **System Settings → Privacy & Security**.
 
